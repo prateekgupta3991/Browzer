@@ -1,0 +1,2 @@
+This is a simple browser as of now. I aim to make a cacheable browser which can easily navigate to any earlier visited page and
+refresh only when the user asks it to, helping to save the data usage.
